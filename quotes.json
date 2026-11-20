@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "bible_reference": 'Hebrews 13:8',
-    "bible_text": 'Jesus Christ the same yesterday, and to day, and for ever ooooooooooooo.',
-    "quote_text": 'If He was the same yesterday, He has got to be the same today, in power, in principle, in every way. He has got to be the same Jesus, or He wasn't Jesus yesterday.',
-    "sermon_title": 'Jesus Christ The Same Yesterday, Today, And Forever',
-    "sermon_date": '58-0323',
-    "paragraph_number": 'E-38',
+    "bible_reference": "Hebrews 13:8",
+    "bible_text": "Jesus Christ the same yesterday, and to day, and for ever.",
+    "quote_text": "If He was the same yesterday, He has got to be the same today, in power, in principle, in every way. He has got to be the same Jesus, or He wasn't Jesus yesterday.",
+    "sermon_title": "Jesus Christ The Same Yesterday, Today, And Forever",
+    "sermon_date": "58-0323",
+    "paragraph_number": "E-38",
     "category": "Faith"
   },
   {
@@ -48,5 +48,15 @@
     "sermon_date": "63-0623M",
     "paragraph_number": "112",
     "category": "Encouragement"
+  },
+  {
+  "id": 1,
+    "bible_reference": "Hebrews 13:200",
+    "bible_text": "Now i see the glory that cannot be unseen .",
+    "quote_text": "If He was the same yesterday, He has got to be the same today, in power, in principle, in every way. He has got to be the same Jesus, or He wasn't Jesus yesterday.",
+    "sermon_title": "Jesus Christ The Same Yesterday, Today, And Forever",
+    "sermon_date": "58-0327",
+    "paragraph_number": "38",
+    "category": "Faith"
   }
 ]
