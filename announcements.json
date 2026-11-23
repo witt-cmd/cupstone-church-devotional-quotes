@@ -1,1 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Sunday Worship & Communion Service",
+    "date": "Sunday • 09:30 AM",
+    "body": "Join us at the sanctuary for Sunday morning worship, prayer, and the preaching of the Word.",
+    "priority": "Important"
+  },
+  {
+    "id": 2,
+    "title": "Midweek Prayer & Tape Service",
+    "date": "Wednesday • 05:30 PM",
+    "body": "Come together for midweek prayer and listening to the Message.",
+    "priority": "General"
+  }
+]
 
